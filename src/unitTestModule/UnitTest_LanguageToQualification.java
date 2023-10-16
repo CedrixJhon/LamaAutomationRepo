@@ -32,7 +32,7 @@ public class UnitTest_LanguageToQualification {
 		driver.get("https://www.admin.lamacare.com.au/signin"); 
 		driver.manage().window().maximize();
 		driver.findElement(By.id("email")).sendKeys("email account credentials here"); //add your email here
-		driver.findElement(By.id("password")).sendKeys("passwor credentials here"); //add your password here
+		driver.findElement(By.id("password")).sendKeys("password credentials here"); //add your password here
 		driver.findElement(By.xpath("//button[contains(text(),'Log In')]")).click();
 
 			
