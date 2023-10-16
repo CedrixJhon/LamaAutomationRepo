@@ -31,8 +31,8 @@ public class UnitTest_LanguageToQualification {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		driver.get("https://www.admin.lamacare.com.au/signin"); 
 		driver.manage().window().maximize();
-		driver.findElement(By.id("email")).sendKeys("lama.demo@gmail.com");
-		driver.findElement(By.id("password")).sendKeys("password@123");
+		driver.findElement(By.id("email")).sendKeys("email account credentials here"); //add your email here
+		driver.findElement(By.id("password")).sendKeys("passwor credentials here"); //add your password here
 		driver.findElement(By.xpath("//button[contains(text(),'Log In')]")).click();
 
 			
