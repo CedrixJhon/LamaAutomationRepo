@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-16T16:26:37 SGT" name="Default suite" finished-at="2023-10-16T16:27:35 SGT" duration-ms="57381">
+    <groups>
+    </groups>
+    <test started-at="2023-10-16T16:26:37 SGT" name="Default test" finished-at="2023-10-16T16:27:35 SGT" duration-ms="57381">
+      <class name="unitTestModule.UnitTest_LanguageToQualification">
+        <test-method is-config="true" signature="login()[pri:0, instance:unitTestModule.UnitTest_LanguageToQualification@b3ca52e]" started-at="2023-10-16T16:26:38 SGT" name="login" finished-at="2023-10-16T16:26:47 SGT" duration-ms="9352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Add_Admin_Language()[pri:1, instance:unitTestModule.UnitTest_LanguageToQualification@b3ca52e]" started-at="2023-10-16T16:26:47 SGT" name="Add_Admin_Language" finished-at="2023-10-16T16:26:59 SGT" duration-ms="11683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_Admin_Language -->
+        <test-method signature="verifyInput_Admin_Language()[pri:2, instance:unitTestModule.UnitTest_LanguageToQualification@b3ca52e]" started-at="2023-10-16T16:26:59 SGT" name="verifyInput_Admin_Language" finished-at="2023-10-16T16:27:03 SGT" duration-ms="4645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInput_Admin_Language -->
+        <test-method signature="updateAndVerify_Admin_Language()[pri:3, instance:unitTestModule.UnitTest_LanguageToQualification@b3ca52e]" started-at="2023-10-16T16:27:03 SGT" name="updateAndVerify_Admin_Language" finished-at="2023-10-16T16:27:09 SGT" duration-ms="5595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAndVerify_Admin_Language -->
+        <test-method signature="verifyDelete_Admin_Language()[pri:4, instance:unitTestModule.UnitTest_LanguageToQualification@b3ca52e]" started-at="2023-10-16T16:27:09 SGT" name="verifyDelete_Admin_Language" finished-at="2023-10-16T16:27:13 SGT" duration-ms="4324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDelete_Admin_Language -->
+        <test-method signature="Add_Admin_Qualifications()[pri:5, instance:unitTestModule.UnitTest_LanguageToQualification@b3ca52e]" started-at="2023-10-16T16:27:13 SGT" name="Add_Admin_Qualifications" finished-at="2023-10-16T16:27:17 SGT" duration-ms="3361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_Admin_Qualifications -->
+        <test-method signature="verifyInput_Admin_Qualifications()[pri:6, instance:unitTestModule.UnitTest_LanguageToQualification@b3ca52e]" started-at="2023-10-16T16:27:17 SGT" name="verifyInput_Admin_Qualifications" finished-at="2023-10-16T16:27:21 SGT" duration-ms="4663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInput_Admin_Qualifications -->
+        <test-method signature="updateAndVerify_Admin_Qualifications()[pri:7, instance:unitTestModule.UnitTest_LanguageToQualification@b3ca52e]" started-at="2023-10-16T16:27:21 SGT" name="updateAndVerify_Admin_Qualifications" finished-at="2023-10-16T16:27:31 SGT" duration-ms="9324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAndVerify_Admin_Qualifications -->
+        <test-method signature="delete_Admin_Qualifications()[pri:8, instance:unitTestModule.UnitTest_LanguageToQualification@b3ca52e]" started-at="2023-10-16T16:27:31 SGT" name="delete_Admin_Qualifications" finished-at="2023-10-16T16:27:35 SGT" duration-ms="4268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_Admin_Qualifications -->
+      </class> <!-- unitTestModule.UnitTest_LanguageToQualification -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
